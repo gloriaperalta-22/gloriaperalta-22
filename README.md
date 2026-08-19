@@ -27,7 +27,7 @@
 <details>
   <summary><b>🔹 Main tech knowledge</b></summary>
   <br>
-  C#, .NET, C++, SQL, Git & GitHub.
+  C#, .NET, C++, Git & GitHub.
 </details>
 
 <details>
