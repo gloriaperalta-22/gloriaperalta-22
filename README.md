@@ -8,7 +8,7 @@
 ### 👾 About Me
 
 * 💻 Estudiante de Ingeniería de Software.
-* 🚀 Apasionada por la tecnología y la programación.
+* 🚀 Apasionada por la tecnología, los idiomas y la programación.
 * 📍 República Dominicana.
 
 <!-- Botones de Redes / Contacto (Shields.io) -->
