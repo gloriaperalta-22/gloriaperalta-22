@@ -25,13 +25,13 @@
 
 <!-- Secciones desplegables -->
 <details>
-  <summary><b>🔹 Main tech knowledge</b></summary>
+  <summary><b>Main tech knowledge</b></summary>
   <br>
   C#, .NET, C++, Git & GitHub.
 </details>
 
 <details>
-  <summary><b>💬 Other knowledge, always learning</b></summary>
+  <summary><b>Other knowledge, always learning</b></summary>
   <br>
   Python, Web Development, Software Design.
 </details>
