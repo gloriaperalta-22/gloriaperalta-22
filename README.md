@@ -8,15 +8,15 @@
 ### 👾 About Me
 
 * 💻 Estudiante de Ingeniería de Software.
-* 🚀 Apasionado/a por la tecnología y la programación.
+* 🚀 Apasionada por la tecnología y la programación.
 * 📍 República Dominicana.
 
 <!-- Botones de Redes / Contacto (Shields.io) -->
 <p align="left">
-  <a href="mailto:tu-correo@gmail.com">
+  <a href="mailto:pp0807222@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/tu-perfil">
+  <a href="https://linkedin.com/in/gloriaperalta-22">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -49,5 +49,5 @@
 
 <!-- Contador de visitas -->
 <p align="right">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTU_USUARIO&count_bg=%20238636&title_bg=%20555555&icon=&icon_color=%20E7E7E7&title=Views&edge_flat=false"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgloriaperalta-22&count_bg=%20238636&title_bg=%20555555&icon=&icon_color=%20E7E7E7&title=Views&edge_flat=false"/>
 </p>
