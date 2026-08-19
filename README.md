@@ -5,7 +5,7 @@
 
 ---
 
-### 👾 About Me
+### 😺 About Me
 
 * 💻 Estudiante de Ingeniería de Software.
 * 🚀 Apasionada por la tecnología, los idiomas y la programación.
