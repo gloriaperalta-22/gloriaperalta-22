@@ -1,5 +1,5 @@
 <!-- Banner Superior -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Gloria%20PeraltaE&fontSize=30" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=Gloria%20Peralta&fontSize=30" width="100%" />
 
 ### Hi there! 👋 How is it going?
 
